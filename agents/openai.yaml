@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 206"
+  short_description: "Soft-colour Layered Papercraft Vignette"
+  default_prompt: "Use $xxd-panel-206 to transform my photograph following the complete canonical source brief."
