@@ -8,11 +8,50 @@
 
 </div>
 
+## 16:9 左右の作例
+
+独立した4点の素材による 16:9 完成キャンバス。左が現実写真、右が本 Panel のデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 206 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 206 Sample 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 206 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 206 Sample 8"></td>
+  </tr>
+</table>
+
+## 3:4 上下の作例
+
+16:9 組とは別の独立した4点で、3:4 上下の完成キャンバスを生成。上が現実写真、下がデザイン、厳密に 50:50。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 206 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 206 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 206 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 206 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 ## 向いている場面と解決する課題
 
 個人の写真整理、自主出版、展示の習作、ライフスタイルのビジュアルに。平凡な構図、雑然とした背景、小さな被写体も、削減・再配置・切り抜き・尺度の変更によって焦点を作り直せます。単なる写真フィルターではありません。
 
 淡色の積層ペーパークラフト小景
+
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
 
 ## 原文プロンプト
 
@@ -21,14 +60,6 @@
 ## クイック判定
 
 元写真の同一性を保ちながら構図を再演出し、素材の特徴と意図的な余白を両立。指定文・自動文案・文字なし、単画像・再帰的フォルダー処理、下記の4出力モードに対応します。
-
-## 写真を作品に変える流れ
-
-被写体と関係を理解 → 原文の視覚言語で抽出 → 無関係な細部を削除 → 尺度・位置・余白を再構成 → 写真に根ざす短い言葉 → 比率・文字・仕上がりを確認
-
-## 完成品の識別ポイント
-
-淡色の積層ペーパークラフト小景
 
 ## 4つの出力モード
 
