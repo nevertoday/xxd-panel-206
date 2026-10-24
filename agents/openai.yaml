@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 206"
-  short_description: "Soft-colour Layered Papercraft Vignette"
-  default_prompt: "Use $xxd-panel-206 to transform my photograph following the complete canonical source brief."
+  short_description: "柔色纸雕微缩小景：把照片主体做成一层层纸片叠成的浅浮雕小景，柔和纸色，大片留白"
+  default_prompt: "Use $xxd-panel-206 to turn my photo into Soft-colour Layered Papercraft Vignette artwork."

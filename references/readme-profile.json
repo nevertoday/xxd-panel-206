@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 206｜Soft-colour Layered Papercraft Vignette: condenses a photo's subject into one small, compact papercraft scene built from layers of cut, stacked and collaged paper — shallow relief with visible paper fibre, cut edges, slight paper thickness and soft shadows — using only a few clear forms and no complex perspective. Colours are light, low-saturation paper tones (pale sky blue, powder blue, off-white, cream, warm grey, misty green, sage, light khaki, pale wood) with one or two accents from the photo such as coral red or brick orange. The scene stays small in wide deliberate whitespace, with a few thin, airy words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-206 or asks for layered papercraft, paper-cut collage or paper-relief miniature scenes from a photo.",
+  "short_description": "柔色纸雕微缩小景：把照片主体做成一层层纸片叠成的浅浮雕小景，柔和纸色，大片留白",
+  "zh-CN": {
+    "name": "柔色纸雕微缩小景",
+    "tagline": "把照片主体做成一层层纸片叠成的浅浮雕小景，用柔和的纸色和大片留白。",
+    "look": "主体被概括成一个小体量、集中的纸艺主景：用一层层裁切、堆叠、拼贴的纸片搭成浅浮雕式的立体小景，保留纸张纤维、切边、纸厚和柔和的阴影。造型只留少量清楚的形体，不做复杂透视。颜色是高明度、低饱和的纸色，如浅天蓝、粉雾蓝、米白、奶油白、暖灰、雾绿、鼠尾草绿、浅卡其、淡木色，再挑一两种原图颜色作点睛，如珊瑚红、砖橘红。主体偏小，四周大片留白，配几个纤细疏朗的小字。",
+    "traits": [
+      "层叠纸雕",
+      "浅浮雕",
+      "柔和纸色",
+      "微缩小景",
+      "大片留白"
+    ],
+    "good": [
+      "形状清楚、层次分明的风景和建筑：山和小屋、海边灯塔、一座桥",
+      "有前后层次的自然场景：树林、花丛、云和山",
+      "想做节日卡片、绘本感配图或橱窗视觉的照片"
+    ],
+    "poor": [
+      "细节密集、需要精确还原的照片：机械、商品、人脸特写",
+      "光线昏暗、色调沉重、想保留这种气氛的照片，结果会变成柔和明亮的纸色",
+      "想要写实 3D、强烈立体感或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Soft-colour Layered Papercraft Vignette",
+    "tagline": "Builds a photo's subject as a small layered-paper relief scene in soft paper colours.",
+    "look": "The subject is condensed into one small, compact papercraft scene, built from layers of cut, stacked and collaged paper into a shallow relief that keeps paper fibre, cut edges, a little paper thickness and soft shadows. Only a few clear forms remain, without complex perspective. Colours are light, low-saturation paper tones such as pale sky blue, powder blue, off-white, cream, warm grey, misty green, sage, light khaki and pale wood, with one or two colours from the photo as accents, such as coral red or brick orange. The scene stays small, with wide whitespace around it and a few thin, airy words.",
+    "traits": [
+      "Layered papercraft",
+      "Shallow relief",
+      "Soft paper colours",
+      "Miniature scene",
+      "Wide whitespace"
+    ],
+    "good": [
+      "Landscapes and buildings with clear shapes and layers: mountains and a cabin, a seaside lighthouse, a bridge",
+      "Nature scenes with distinct front-to-back layers: woods, flower beds, clouds and hills",
+      "Photos you want as a holiday card, picture-book-style illustration or shop-window visual"
+    ],
+    "poor": [
+      "Dense, detailed photos that need exact reproduction: machinery, products, face close-ups",
+      "Dim, heavy-toned photos whose mood you want to keep, since the result turns into soft, light paper colours",
+      "Requests for realistic 3D, strong depth or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "淡色の積層ペーパークラフト小景",
+    "tagline": "写真の主役を重ねた紙でできた浅いレリーフの小景にし、柔らかな紙の色と広い余白で仕上げます。",
+    "look": "主役を小さくまとまった紙工作の主景に凝縮します。切って、重ねて、貼り合わせた紙を何層にも組み、紙の繊維、切り口、わずかな紙の厚み、柔らかな影が残る浅いレリーフにします。形ははっきりしたものを少しだけ残し、複雑な遠近は使いません。色は明度が高く彩度の低い紙の色で、淡い空色、粉っぽい青、生成り、クリーム白、温かなグレー、霧のような緑、セージグリーン、淡いカーキ、淡い木の色などです。写真の色を一、二色選んで差し色にし、コーラルレッドやレンガのような橙を使うこともあります。主役は小さめで、周りに大きな余白をとり、細く間隔の広い文字を数語添えます。",
+    "traits": [
+      "積層ペーパークラフト",
+      "浅いレリーフ",
+      "柔らかな紙の色",
+      "ミニチュアの小景",
+      "広い余白"
+    ],
+    "good": [
+      "形がはっきりして層の分かれた風景や建物：山と小屋、海辺の灯台、橋",
+      "手前から奥へ層がある自然の場面：林、花畑、雲と山",
+      "季節のカード、絵本風の挿絵、ショーウィンドウのビジュアルにしたい写真"
+    ],
+    "poor": [
+      "細部が密で正確な再現が必要な写真：機械、商品、顔のアップ",
+      "暗く重い色調の雰囲気を残したい写真（仕上がりは柔らかく明るい紙の色になります）",
+      "写実的な 3D、強い立体感、漫画風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "부드러운 색의 겹종이 미니 풍경",
+    "tagline": "사진의 주인공을 겹겹이 쌓은 종이로 만든 얕은 부조 풍경으로 만들고, 부드러운 종이색과 넓은 여백으로 마무리합니다.",
+    "look": "주인공을 작고 집중된 종이 공예 주경으로 압축합니다. 자르고 쌓고 붙인 종이를 여러 겹 엮어 얕은 부조처럼 만들며, 종이 섬유, 잘린 가장자리, 약간의 종이 두께, 부드러운 그림자를 남깁니다. 형태는 분명한 것 몇 개만 남기고 복잡한 원근은 쓰지 않습니다. 색은 명도가 높고 채도가 낮은 종이색으로 연한 하늘색, 파우더 블루, 미색, 크림색, 따뜻한 회색, 안개 초록, 세이지 그린, 연한 카키, 옅은 나무색 같은 색이며, 사진에서 한두 가지 색을 골라 포인트로 씁니다. 코랄 레드나 벽돌빛 주황 같은 색입니다. 주인공은 작게, 둘레에는 넓은 여백과 가늘고 성긴 글자 몇 개를 둡니다.",
+    "traits": [
+      "겹종이 공예",
+      "얕은 부조",
+      "부드러운 종이색",
+      "미니어처 풍경",
+      "넓은 여백"
+    ],
+    "good": [
+      "형태가 분명하고 층이 나뉜 풍경과 건물: 산과 오두막, 바닷가 등대, 다리",
+      "앞뒤 층이 있는 자연 장면: 숲, 꽃밭, 구름과 산",
+      "명절 카드, 그림책 같은 삽화, 쇼윈도 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "디테일이 빽빽하고 정확한 재현이 필요한 사진: 기계, 상품, 얼굴 클로즈업",
+      "어둡고 무거운 색조의 분위기를 지키고 싶은 사진(결과는 부드럽고 밝은 종이색이 됩니다)",
+      "사실적인 3D, 강한 입체감, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد ورقي طبقي بألوان ناعمة",
+    "tagline": "يبني عنصر الصورة مشهداً صغيراً بنقش بارز خفيف من طبقات الورق، بألوان ورقية ناعمة وفراغ واسع.",
+    "look": "يُكثَّف العنصر في مشهد ورقي صغير متماسك، مبني من طبقات ورق مقصوصة ومكدسة وملصقة في نقش بارز خفيف يحتفظ بألياف الورق وحواف القص وشيء من سماكة الورق وظلال ناعمة. لا يبقى إلا عدد قليل من الأشكال الواضحة، من دون منظور معقد. الألوان درجات ورقية فاتحة قليلة التشبع، مثل الأزرق السماوي الفاتح والأزرق البودري والأبيض المائل إلى الكريمي والكريمي والرمادي الدافئ والأخضر الضبابي وأخضر المريمية والكاكي الفاتح ولون الخشب الباهت، مع لون أو لونين من الصورة لمسةً مميزة، مثل الأحمر المرجاني أو البرتقالي الطوبي. يبقى المشهد صغيراً، مع فراغ واسع حوله وكلمات قليلة رفيعة متباعدة.",
+    "traits": [
+      "ورق طبقي",
+      "نقش بارز خفيف",
+      "ألوان ورقية ناعمة",
+      "مشهد مصغر",
+      "فراغ واسع"
+    ],
+    "good": [
+      "مناظر ومبانٍ واضحة الأشكال والطبقات: جبال وكوخ، منارة على البحر، جسر",
+      "مشاهد طبيعية لها طبقات واضحة من الأمام إلى الخلف: غابة، أحواض زهور، غيوم وتلال",
+      "صور تريدها بطاقة عيد أو رسماً بروح كتب الأطفال أو مرئية لواجهة متجر"
+    ],
+    "poor": [
+      "صور كثيفة التفاصيل تحتاج إلى إعادة دقيقة: آلات، منتجات، لقطات وجه قريبة",
+      "صور خافتة ثقيلة الدرجات تريد الحفاظ على جوها، لأن النتيجة تصبح ألواناً ورقية ناعمة فاتحة",
+      "طلب مظهر ثلاثي الأبعاد واقعي أو عمق قوي أو أسلوب كرتوني"
+    ]
+  }
+}

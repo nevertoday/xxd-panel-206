@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-206
-description: "Create Panel 206 raster artwork: Soft-colour Layered Papercraft Vignette. Use when the user invokes xxd-panel-206 or requests this specific visual language."
+description: "XXD Panel 206｜Soft-colour Layered Papercraft Vignette: condenses a photo's subject into one small, compact papercraft scene built from layers of cut, stacked and collaged paper — shallow relief with visible paper fibre, cut edges, slight paper thickness and soft shadows — using only a few clear forms and no complex perspective. Colours are light, low-saturation paper tones (pale sky blue, powder blue, off-white, cream, warm grey, misty green, sage, light khaki, pale wood) with one or two accents from the photo such as coral red or brick orange. The scene stays small in wide deliberate whitespace, with a few thin, airy words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-206 or asks for layered papercraft, paper-cut collage or paper-relief miniature scenes from a photo."
 ---
 
 # XXD Panel 206
